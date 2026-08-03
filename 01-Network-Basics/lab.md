@@ -32,3 +32,6 @@ show ip interface brief
 - Router hostname changes to R1.
 - IOS version is displayed.
 - Interface status is displayed.
+- Router hostname changes to R1.
+- IOS version is displayed.
+- Interface status is displayed.
