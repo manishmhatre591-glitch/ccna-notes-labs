@@ -1,36 +1,59 @@
 # Subnetting Notes
 
 ## What is Subnetting?
-Subnetting divides a large network into smaller logical networks.
 
-## IPv4 Address
-IPv4 contains 32 bits divided into:
-- Network portion
-- Host portion
+Subnetting is the process of dividing one large network into multiple smaller networks (subnets).
+
+## Why do we use Subnetting?
+
+- Reduces network traffic
+- Improves security
+- Better IP address management
+- Reduces broadcast domains
+
+## Important Terms
+
+### Network ID
+The first IP address of a subnet.
 
 Example:
+192.168.10.0
 
-192.168.1.10/24
+### Broadcast ID
+The last IP address of a subnet.
 
-Network: 192.168.1.0
-Host: 10
+Example:
+192.168.10.255
 
-## CIDR Notation
+### Host Range
+The usable IP addresses between the Network ID and Broadcast ID.
 
-| CIDR | Mask | Usable Hosts |
-|------|------|--------------|
-| /24 | 255.255.255.0 | 254 |
-| /25 | 255.255.255.128 | 126 |
-| /26 | 255.255.255.192 | 62 |
-| /27 | 255.255.255.224 | 30 |
-| /28 | 255.255.255.240 | 14 |
-| /29 | 255.255.255.248 | 6 |
-| /30 | 255.255.255.252 | 2 |
+Example:
+192.168.10.1 to 192.168.10.254
 
-## Formulas
+## CIDR Examples
 
-Hosts:
-2^host bits - 2
+/24 = 255.255.255.0
 
-Subnets:
-2^borrowed bits
+/25 = 255.255.255.128
+
+/26 = 255.255.255.192
+
+/27 = 255.255.255.224
+
+## Example
+
+Network:
+192.168.10.0/24
+
+Network ID:
+192.168.10.0
+
+Broadcast:
+192.168.10.255
+
+Usable Hosts:
+192.168.10.1 - 192.168.10.254
+
+Total Hosts:
+254
