@@ -1,35 +1,47 @@
 # CCNA Notes & Labs
 
-## About This Repository
+> My ongoing CCNA learning journey with Cisco Packet Tracer labs, networking notes, and hands-on configurations.
 
-This repository contains my CCNA learning journey.
+## 👨‍💻 About Me
 
-I am currently studying CCNA and documenting my progress by uploading:
+Hi, I'm **Manish Mhatre**.
 
-- 📘 Daily Notes
-- 💻 Cisco IOS Commands
-- 🧪 Packet Tracer Labs
-- ❓ Interview Questions
-- 📖 Practical Configurations
+- 💼 IT Support Engineer
+- 📚 Currently pursuing CCNA
+- 🌐 Learning Cisco Networking, Routing, Switching & Network Security
+- 🎯 Aspiring Network Engineer
 
-## Learning Progress
+## 📖 About this Repository
 
-- ✅ 01 - Network Basics
-- ✅ 02 - OSI Model
-- ✅ 03 - TCP/IP Model
-- ✅ 04 - IPv4 Addressing
-- ✅ 05 - Subnetting
-- ✅ 06 - Cisco IOS Commands
-- ✅ 07 - Static Routing
+This repository contains my **ongoing CCNA practice**.
 
-🚧 More topics will be added as I continue learning CCNA.
+As I learn new topics, I regularly upload:
+- 📄 Notes
+- 🖥️ Packet Tracer Labs
+- ⚙️ Cisco IOS Configurations
+- 📸 Lab Screenshots
+- 🔧 Troubleshooting Examples
 
-## Tools Used
+## 📚 Topics Covered
+
+- ✅ Network Fundamentals
+- ✅ IPv4 Addressing
+- ✅ VLAN
+- ✅ Trunking
+- ✅ Inter-VLAN Routing
+- ✅ Static Routing
+- 🔄 OSPF (In Progress)
+- ⏳ ACL (Coming Soon)
+- ⏳ NAT (Coming Soon)
+- ⏳ DHCP (Coming Soon)
+- ⏳ STP (Coming Soon)
+
+## 🛠️ Tools
 
 - Cisco Packet Tracer
-- GitHub
-- Cisco IOS
+- Cisco IOS CLI
+- Git & GitHub
 
-## Goal
+## 📌 Repository Status
 
-To build a complete CCNA portfolio while learning networking concepts and practical labs.
+🚀 This repository is actively updated as I progress through my CCNA studies.
