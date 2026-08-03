@@ -1,34 +1,22 @@
 # Subnetting
 
-## Overview
-Subnetting is the process of dividing a large IP network into smaller subnetworks.
+## Objective
+
+Learn how to divide a network into smaller networks using subnetting.
 
 ## Topics Covered
 
-- IPv4 Addressing
-- Binary Conversion
-- Subnet Mask
+- What is Subnetting?
+- Network ID
+- Broadcast ID
+- Host ID
 - CIDR Notation
-- Network Address
-- Broadcast Address
-- Host Range Calculation
-- VLSM Basics
+- Usable Hosts
 
-## Learning Goals
-
-After completing this topic, you will understand:
-
-- How subnetting works
-- How to calculate subnet ranges
-- How to find network and broadcast addresses
-- How to design IP addressing plans
-
-## Tools Used
+## Tool Used
 
 - Cisco Packet Tracer
-- Wireshark
-- Linux Networking Commands
 
-## Practice
+## Status
 
-Subnet:
+✅ Completed
