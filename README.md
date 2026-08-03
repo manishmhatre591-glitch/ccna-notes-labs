@@ -1,18 +1,17 @@
-CCNA VLAN Lab
+# Network Basics Notes
 
-## Objective
-Configure VLAN 10 and VLAN 20.
+## What is a Network?
 
-## Tools
-- Cisco Packet Tracer
+A network is a group of devices connected together to share data and resources.
 
-## Topics
-- VLAN
-- Trunk
-- Inter-VLAN Routing
+## Types of Networks
+- LAN (Local Area Network)
+- MAN (Metropolitan Area Network)
+- WAN (Wide Area Network)
 
-## Q4. Difference between Router and Switch?
-
-Router connects different networks.
-
-Switch connects devices within the same network.
+## Common Network Devices
+- Router
+- Switch
+- Hub
+- Access Point
+- Firewall
