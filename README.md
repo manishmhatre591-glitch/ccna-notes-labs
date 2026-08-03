@@ -1,17 +1,35 @@
-# Network Basics Notes
+# CCNA Notes & Labs
 
-## What is a Network?
+## About This Repository
 
-A network is a group of devices connected together to share data and resources.
+This repository contains my CCNA learning journey.
 
-## Types of Networks
-- LAN (Local Area Network)
-- MAN (Metropolitan Area Network)
-- WAN (Wide Area Network)
+I am currently studying CCNA and documenting my progress by uploading:
 
-## Common Network Devices
-- Router
-- Switch
-- Hub
-- Access Point
-- Firewall
+- 📘 Daily Notes
+- 💻 Cisco IOS Commands
+- 🧪 Packet Tracer Labs
+- ❓ Interview Questions
+- 📖 Practical Configurations
+
+## Learning Progress
+
+- ✅ 01 - Network Basics
+- ✅ 02 - OSI Model
+- ✅ 03 - TCP/IP Model
+- ✅ 04 - IPv4 Addressing
+- ✅ 05 - Subnetting
+- ✅ 06 - Cisco IOS Commands
+- ✅ 07 - Static Routing
+
+🚧 More topics will be added as I continue learning CCNA.
+
+## Tools Used
+
+- Cisco Packet Tracer
+- GitHub
+- Cisco IOS
+
+## Goal
+
+To build a complete CCNA portfolio while learning networking concepts and practical labs.
