@@ -1,27 +1,59 @@
-# Subnetting Lab
+# Lab 5 - Subnetting Practice
 
-## Lab 1: Create 4 Subnets
+## Objective
 
-Network:
-192.168.1.0/24
+Understand subnetting using a simple LAN.
 
-Required:
-4 subnets
+## Devices
 
-Calculation:
+- 2 PCs
+- 1 Switch
 
-Borrow 2 bits
+## Topology
 
-New CIDR:
- /26
+PC0 -------- Switch -------- PC1
+
+## IP Configuration
+
+PC0
+
+IP Address:
+192.168.10.10
 
 Subnet Mask:
-255.255.255.192
+255.255.255.0
 
+Gateway:
+192.168.10.1
 
-|Subnet|Network|Host Range|Broadcast|
-|-|-|-|-|
-|1|192.168.1.0|.1-.62|.63|
-|2|192.168.1.64|.65-.126|.127|
-|3|192.168.1.128|.129-.190|.191|
-|4|192.168.1.192|.193-.254|.255|
+PC1
+
+IP Address:
+192.168.10.20
+
+Subnet Mask:
+255.255.255.0
+
+Gateway:
+192.168.10.1
+
+## Task
+
+Find:
+
+- Network ID
+- Broadcast ID
+- Number of Hosts
+- Host Range
+
+## Verification
+
+Open Command Prompt
+
+Run
+
+ping 192.168.10.20
+
+## Expected Result
+
+Reply received successfully.
